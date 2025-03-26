@@ -36,7 +36,7 @@ Este projeto tem como objetivo demonstrar a utilização de **concorrência (mul
 
 ### 1. Clonar o projeto
 ```bash
-git clone https://github.com/fjgmelloni/fullcycle/multithreading.git
+git clone https://github.com/fjgmelloni/Multithreading.git
 cd multithreading
 ```
 
